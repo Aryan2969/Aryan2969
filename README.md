@@ -10,6 +10,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=850&color=84936A&center=true&vCenter=true&width=650&lines=Namaste+%F0%9F%99%8F+I'm+Aryan+Singh+Rana;Full+Stack+%26+App+Developer+in+the+making;AI+%26+Open+Source+Explorer;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Animated introduction">
 
+<br>
+
+<img src="./assets/profile.gif" width="180" alt="Aryan's animated portrait">
+
+<br>
+
 <img src="./divider.svg" width="100%" alt="Decorative growing vine divider">
 
 **Student Developer · Noida, India · 2nd Year**
