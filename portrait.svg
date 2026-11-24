@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 460" role="img" aria-labelledby="t d">
+<title id="t">Aryan — illustrated portrait</title><desc id="d">A restrained editorial illustration of a young developer with dark wavy hair and a charcoal hoodie, with muted olive and warm clay accents.</desc>
+<defs><linearGradient id="paper" x2="1" y2="1"><stop stop-color="#e8e2d6"/><stop offset="1" stop-color="#c8c9b9"/></linearGradient><linearGradient id="skin" x2=".7" y2="1"><stop stop-color="#e8bda3"/><stop offset="1" stop-color="#bd806d"/></linearGradient><linearGradient id="hood" x2="1" y2="1"><stop stop-color="#39413d"/><stop offset="1" stop-color="#202a29"/></linearGradient></defs>
+<rect width="420" height="460" rx="24" fill="url(#paper)"/>
+<circle cx="320" cy="105" r="66" fill="#a3a88d" opacity=".7"/><path d="M0 340Q100 285 195 350T420 330V460H0Z" fill="#b7b8a7"/>
+<g stroke="#313a35" stroke-width="2" stroke-linejoin="round">
+<path d="M45 460Q62 350 143 322L190 302H255L302 325Q376 356 389 460Z" fill="url(#hood)"/>
+<path d="M155 326Q210 391 267 326L297 460H122Z" fill="#202827"/>
+<path d="M179 280L176 335Q211 366 249 335L247 276Z" fill="url(#skin)"/>
+<path d="M125 130Q134 58 211 57Q293 57 302 144L283 265Q267 318 211 331Q152 314 137 259Z" fill="url(#skin)"/>
+<path d="M119 159Q101 86 158 42Q201 7 258 33Q316 56 311 137L296 188Q284 159 277 121Q239 153 179 147Q148 165 136 210Z" fill="#171b1e"/>
+<path d="M124 128Q135 65 195 48Q170 74 181 100Q206 66 243 68Q230 89 246 105Q274 83 293 107Q280 123 298 144Q310 132 311 157L294 194Q277 166 275 135Q236 160 176 151Q145 171 135 211Z" fill="#252a2c"/>
+<path d="M159 213Q178 199 196 212M229 211Q250 196 268 211" fill="none" stroke="#40302e" stroke-width="6" stroke-linecap="round"/>
+<path d="M169 226Q182 233 195 226M238 225Q251 232 264 224" fill="none" stroke="#252322" stroke-width="4" stroke-linecap="round"/>
+<ellipse cx="183" cy="225" rx="4" ry="5" fill="#252322" stroke="none"/><ellipse cx="251" cy="224" rx="4" ry="5" fill="#252322" stroke="none"/>
+<path d="M215 230Q204 266 216 269Q225 271 233 264" fill="none" stroke="#a96f60" stroke-width="3" stroke-linecap="round"/>
+<path d="M190 290Q212 299 237 287Q227 311 207 308Q196 304 190 290Z" fill="#995d5b" stroke="none"/>
+<path d="M135 174Q120 165 119 191Q120 216 141 223M289 173Q309 165 305 194Q301 215 282 223" fill="#d19a83"/>
+</g>
+<path d="M25 30H70M25 30V75M395 385V430H350" fill="none" stroke="#777f63" stroke-width="3"/>
+<text x="26" y="430" fill="#374139" font-family="monospace" font-size="11" letter-spacing="2">ARYAN / DEVELOPER</text>
+</svg>
