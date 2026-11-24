@@ -1,55 +1,61 @@
-<!-- Theme-aware profile hero -->
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Aryan Singh Rana — Full Stack Developer">
+  <img src="./dark.svg" alt="Aryan Singh Rana — Full Stack Developer" width="100%">
 </picture>
 
-<h1 align="center">Hi, I'm Aryan Singh Rana 👋</h1>
-<p align="center">
-  <strong>Full Stack Developer</strong> · Learning and building
-</p>
-<p align="center">
-  Noida, India · 2nd Year, Hi-Tech Institute of Engineering and Technology
-</p>
+# Aryan Singh Rana
+
+**Full Stack Developer · Learning and building**
+
+Noida, India · 2nd Year — Hi-Tech Institute of Engineering and Technology
+
+[GitHub](https://github.com/Aryan2969)
+
+</div>
 
 ---
 
-### About
+## A little about me
 
-I'm a student and developer learning to build across the frontend and backend. I enjoy turning ideas into practical projects and strengthening my fundamentals by building.
+I'm a student developer working across frontend and backend technologies. I learn by building, breaking things, debugging, and improving one project at a time.
 
-### Featured Projects
+> Building useful things, one commit at a time.
 
-- **SHG Savings & Micro-Loan Tracker** — savings and micro-loan management project.
-- **PDF Q&A RAG Chatbot** — document-based question-answering project using retrieval-augmented generation.
-- **Weather App** — weather application.
-- **Makelane** — web project.
+## What I'm working with
 
-### Engineering Stack
+| Area | Technologies |
+|---|---|
+| Languages | C++, JavaScript, Python |
+| Frontend | React.js |
+| Backend | Node.js, Express.js |
+| Database | MongoDB, Mongoose |
+| Tools | Git, GitHub |
 
-**Languages:** C++, JavaScript, Python
+## Selected projects
 
-**Frontend:** React.js
+### SHG Savings & Micro-Loan Tracker
+A savings and micro-loan management project built around group/member workflows.
 
-**Backend:** Node.js, Express.js
+### PDF Q&A RAG Chatbot
+A document question-answering project exploring retrieval-augmented generation.
 
-**Database:** MongoDB, Mongoose
+### Weather App
+A weather application built around API-driven data.
 
-**Tools:** Git, GitHub
+### Makelane
+A web product project exploring modern frontend and backend tooling.
 
-### Current Focus
+## Current focus
 
-- Strengthening full-stack development fundamentals
+- Strengthening full-stack fundamentals
 - Building practical frontend and backend projects
 - Learning by experimenting, debugging, and shipping
 
-### Connect
-
-- GitHub: [@Aryan2969](https://github.com/Aryan2969)
-
 ---
 
-<p align="center">
-  <sub>Learning continuously · Building consistently</sub>
-</p>
+<div align="center">
+<sub>Curiosity in. Code out. Repeat.</sub>
+</div>
