@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="92" viewBox="0 0 1000 92" role="img" aria-labelledby="t d">
+<title id="t">Growing vine divider</title><desc id="d">A hand-drawn olive green vine with a small sprout in the center and gently swaying leaves.</desc>
+<style>
+.leaf{transform-box:fill-box;transform-origin:bottom center;animation:sway 3.8s ease-in-out infinite}
+@keyframes sway{0%,100%{transform:rotate(-2deg)}50%{transform:rotate(3deg)}}
+@media(prefers-reduced-motion:reduce){.leaf{animation:none}}
+</style>
+<path d="M30 54 C95 54 95 20 145 38 S205 62 255 44 S330 25 375 46 S445 65 500 40 S565 24 625 45 S710 61 755 41 S840 24 885 42 S940 53 970 45" fill="none" stroke="#84936a" stroke-width="2.5" stroke-linecap="round"/>
+<g fill="none" stroke="#84936a" stroke-width="2">
+<path d="M112 42q-22-34-42-10q-8 12 7 18q13 4 14-8"/><path d="M220 50q-4-32 22-29q17 2 10 18q-6 12-17 4"/>
+<path d="M340 38q-8-28 15-34q18-4 17 14q-1 12-14 12"/><path d="M655 46q3-31 26-28q18 3 10 19q-7 11-18 3"/>
+<path d="M790 42q-4-29 19-33q18-2 16 15q-2 12-15 10"/><path d="M900 45q8-26 29-18q16 7 5 20q-9 9-18-1"/>
+</g>
+<g class="leaf" stroke="#84936a" stroke-width="2" fill="#9aaa78">
+<path d="M500 43V15"/><path d="M500 29Q475 4 468 18Q466 31 500 34Z"/><path d="M500 25Q523 0 532 14Q533 28 500 32Z"/><path d="M500 15Q489-8 500-12Q512-4 500 15Z"/>
+</g>
+<circle cx="500" cy="42" r="4" fill="#c08a69"/>
+</svg>
