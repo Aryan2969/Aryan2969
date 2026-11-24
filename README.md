@@ -8,14 +8,14 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=850&color=84936A&center=true&vCenter=true&width=650&lines=Namaste+%F0%9F%99%8F+I'm+Aryan+Singh+Rana;Full+Stack+Developer+in+the+making;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Animated introduction">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=850&color=84936A&center=true&vCenter=true&width=650&lines=Namaste+%F0%9F%99%8F+I'm+Aryan+Singh+Rana;Full+Stack+%26+App+Developer+in+the+making;AI+%26+Open+Source+Explorer;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Animated introduction">
 
 <img src="./divider.svg" width="100%" alt="Decorative growing vine divider">
 
 **Student Developer · Noida, India · 2nd Year**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Aryan2969-303b32?style=flat-square&logo=github&logoColor=white)](https://github.com/Aryan2969)
-[![Focus](https://img.shields.io/badge/Focus-Full--Stack%20Development-727d5b?style=flat-square)](#)
+[![Focus](https://img.shields.io/badge/Focus-Full--Stack%20%7C%20App%20Dev%20%7C%20AI-727d5b?style=flat-square)](#)
 [![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-b86e51?style=flat-square)](#)
 
 </div>
@@ -30,7 +30,8 @@ I enjoy exploring how things work on the web — from crafting a user interface 
 - 🛠️ Building with **Node.js, Express.js, MongoDB and Mongoose**.
 - 🧠 Exploring **Python and Retrieval-Augmented Generation (RAG)**.
 - 📍 Based in **Noida, India**.
-- 💬 Interested in learning, collaboration and open-source projects.
+- 📱 Learning **App Development** and exploring new skills.
+- 🌍 Interested in **open-source contribution**, learning and collaboration.
 
 ## ✨ Present status
 
@@ -39,6 +40,8 @@ I enjoy exploring how things work on the web — from crafting a user interface 
 | React.js & JavaScript practice | Better UI and frontend architecture |
 | Express APIs & MongoDB | Full-stack application design |
 | PDF Q&A RAG project | Practical AI applications |
+| App development basics | Building mobile apps |
+| Open-source contributions | Meaningful pull requests |
 
 ## 🧰 Tech I use
 
@@ -137,12 +140,25 @@ A web product project exploring modern frontend experiences and backend integrat
 </div>
 </details>
 
+<div align="center">
+
+### 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan2969/Aryan2969/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan2969/Aryan2969/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Aryan2969/Aryan2969/output/github-snake.svg" />
+</picture>
+
+</div>
+
 ## 🌱 What I'm working towards
 
 - Building complete projects from UI to database.
 - Becoming more confident with React and modern JavaScript.
 - Writing clean APIs and understanding backend architecture.
 - Exploring AI-powered tools and document-based Q&A.
+- Learning app development and picking up new skills along the way.
 - Contributing to projects and learning with other developers.
 
 <div align="center">
